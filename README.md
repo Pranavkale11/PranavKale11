@@ -8,7 +8,7 @@
 
 <p>
   <em>
-    🎓 Second-year CSE student (Cloud Computing) <br/>
+    🎓 Third-year CSE student (Cloud Computing) <br/>
     ☁️ Aspiring Cloud Engineer | 🤖 AI & Automation Enthusiast
   </em>
 </p>
